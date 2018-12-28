@@ -11,7 +11,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		
-		//this is a rough package
+		//using EGit plug in
 		HomePage home = new HomePage();
 		
 		LoginPage lp = home.goToLogin();
